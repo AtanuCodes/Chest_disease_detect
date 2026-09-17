@@ -1,0 +1,20 @@
+# Medical X - Pneumonia Detection (EfficientNet-B0 Transfer Learning)
+# Python 3.x
+streamlit
+# Core Deep Learning
+torch
+torchvision
+
+# Data & Utilities
+numpy
+
+# Visualization
+matplotlib
+
+# Jupyter (for running the notebook)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+
+pillow
+opencv-python-headless
