@@ -123,7 +123,7 @@ MEDICAL-X/
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/AtanuCodes/Chest_disease_detect.git
-cd MEDICAL-X
+cd Chest_disease_detect 
 ```
 
 ### 2. Install dependencies
